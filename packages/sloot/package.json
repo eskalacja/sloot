@@ -1,0 +1,17 @@
+{
+  "name": "sloot",
+  "version": "0.0.1",
+  "description": "Sloot is a typescript / javascript store inspired by redux but approached in a different, more coding efficient way.",
+  "main": "dist/index.js",
+  "repository": "https://github.com/eskalacja/sloot.git",
+  "author": "Szymon Nowicki <sznowicki@eskalacja.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.2.0",
+    "@typescript-eslint/parser": "^4.2.0",
+    "typescript": "^4.0.3"
+  }
+}
